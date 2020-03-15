@@ -1,0 +1,2 @@
+(window["webpackJsonpgelder.io"]=window["webpackJsonpgelder.io"]||[]).push([[0],[,,,function(e,n,t){e.exports=t(10)},,,,,function(e,n,t){},function(e,n,t){},function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),o=t(2),c=t.n(o);t(8),t(9);var l=function(){return r.a.createElement("div",{className:"App"},r.a.createElement("header",{className:"App-header"},r.a.createElement("h1",null,"gelder.io"),r.a.createElement("h2",null,"coming soon")))};c.a.render(r.a.createElement(l,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.361379f7.chunk.js.map
